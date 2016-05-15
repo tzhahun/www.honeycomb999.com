@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url> 
+    <loc>http://www.honeycomb999.com/index.html</loc>
+     <priority>0.9</priority> 
+    <image:image>
+       <image:loc>http://www.honeycomb999.com/images/box_of_36_sections.JPG</image:loc>
+       <image:caption>Sections for comb honey production</image:caption>
+       <image:title>Sections to make comb honey </image:title>
+   </image:image>   
+   <image:image>
+       <image:loc>http://www.honeycomb999.com/images/packaging_flat_and_assembled.jpg</image:loc>
+       <image:caption>Packaging for comb honey</image:caption>
+       <image:title>Packaging for sections to make and sell comb honey </image:title>
+   </image:image>  
+   <image:image>
+       <image:loc>http://www.honeycomb999.com/images/ready_honeycomb.jpg</image:loc>
+       <image:caption>Ready honeycomb</image:caption>
+       <image:title>Section filled with comb honey </image:title>
+   </image:image>   
+  </url>
+  <url>
+      <loc>http://www.honeycomb999.com/buy.html</loc>
+      <priority>0.7</priority>      
+   </url>
+ <url>
+      <loc>http://www.honeycomb999.com/contact.html</loc>      
+       <priority>0.1</priority>      
+  </url>
+ <url>
+      <loc>http://www.honeycomb999.com/faq.html</loc>      
+      <priority>0.1</priority>      
+   </url>
+ <url>
+      <loc>http://www.honeycomb999.com/tutorials.html</loc>      
+       <priority>0.8</priority> 
+	<image:image>
+	       <image:loc>http://www.honeycomb999.com/images/01_Section_with_2_strips_of_foundation.jpg</image:loc>
+	       <image:caption>Installing strips of foundation into a section</image:caption>
+	       <image:title>Sections with strips of foundation to start building comb honey</image:title>
+	   </image:image>   
+	   <image:image>
+	       <image:loc>http://www.honeycomb999.com/images/02_Section_with_full_foundation.jpg</image:loc>
+	       <image:caption>Installing full foundation into a section</image:caption>
+	       <image:title>Sections with full foundation to start building comb honey </image:title>
+	   </image:image>  
+	   <image:image>
+	       <image:loc>http://www.honeycomb999.com/images/03_Installing_sections_into_standard_frame.jpg</image:loc>
+	       <image:caption>Installing sections into frame</image:caption>
+	       <image:title>Installation of sections into frame to produce comb honey</image:title>
+	   </image:image>        
+  <image:image>
+	       <image:loc>http://www.honeycomb999.com/images/04_Installing_frames_into_super.jpg</image:loc>
+	       <image:caption>Installing frames into super</image:caption>
+	       <image:title>Installing frames with sections into super</image:title>
+	   </image:image>        
+  <image:image>
+	       <image:loc>http://www.honeycomb999.com/images/05_Installing_supporting_grid_into_super.jpg</image:loc>
+	       <image:caption>Installing supporting grid into super</image:caption>
+	       <image:title>Installing supporting grid into super for sections support</image:title>
+	   </image:image>        
+  <image:image>
+	       <image:loc>http://www.honeycomb999.com/images/06_Installing_sections_into_super.jpg</image:loc>
+	       <image:caption>Installing sections into super</image:caption>
+	       <image:title>Installing sections into super for production of comb honey</image:title>
+	   </image:image>        
+  </url>
+ <url>
+      <loc>http://www.honeycomb999.com/videos.html</loc>      
+        <priority>0.1</priority>      
+ </url> 
+</urlset>
