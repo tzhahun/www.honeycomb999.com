@@ -196,7 +196,7 @@ embed, object, video {
 
 .embed-container {
 position: relative;
-width: 480px;
+width: 880px;
 padding-bottom: 56.25%; /* 16/9 ratio */
 padding-top: 30px; /* IE6 workaround*/
 height: 0;
