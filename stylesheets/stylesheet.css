@@ -194,6 +194,15 @@ embed, object, video {
   max-width: 100%;
 }
 
+.embed-container {
+position: relative;
+width: 480px;
+padding-bottom: 56.25%; /* 16/9 ratio */
+padding-top: 30px; /* IE6 workaround*/
+height: 0;
+overflow: hidden;
+}
+
 pre, code {
   width: 100%;
   color: #222;
