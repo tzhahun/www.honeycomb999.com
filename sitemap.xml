@@ -23,39 +23,47 @@
   <url>
       <loc>http://www.honeycomb999.com/buy.html</loc>
       <priority>0.7</priority>     
-	  <image:image>
+ <image:image>
 	       <image:loc>https://www.honeycomb999.com/images/Section.jpg</image:loc>
        <image:caption>Section for Making Comb Honey</image:caption>
        <image:title>Wooden section for comb honey production</image:title>
+ </image:image> 
 <image:image>
 	       <image:loc>https://www.honeycomb999.com/images/cardboard_packaging_box_assembled_side.jpg</image:loc>
        <image:caption>Packaging for comb honey</image:caption>
        <image:title>Cardboard packaging for comb honey sections</image:title>
+ </image:image> 
 <image:image>
 	       <image:loc>https://www.honeycomb999.com/images/comb_honey_making_kit.jpg</image:loc>
        <image:caption>Sections and Packaging for Making Comb Honey</image:caption>
        <image:title>Wooden section for comb honey production and cardboard packaging for comb honey sections</image:title>
-<image:image>
+ </image:image>
+ <image:image>
 	       <image:loc>https://www.honeycomb999.com/images/langstroth.jpg</image:loc>
        <image:caption>Rack of wooden sections in lanstroth</image:caption>
        <image:title>Rack of wooden comb honey sections in lanstroth super</image:title>
+ </image:image>
 <image:image>
 	       <image:loc>https://www.honeycomb999.com/images/5_assembled_frames_with_strips_foundation.png</image:loc>
        <image:caption>Comb honey sections in British National Frame</image:caption>
        <image:title>Rack of comb honey sections in British National Frame with strips of foundation</image:title>
+ </image:image> 
 <image:image>
 	       <image:loc>https://www.honeycomb999.com/images/5_assembled_frames_with_full_foundation.png</image:loc>
       <image:caption>Comb honey sections in British National Frame</image:caption>
        <image:title>Rack of comb honey sections in British National Frame with full foundation</image:title>
+ </image:image> 
 <image:image>
 	       <image:loc>https://www.honeycomb999.com/images/1_frame_packaging_outer.png</image:loc>
        <image:caption>Packaging for a British National Frame with comb honey</image:caption>
        <image:title>Packaging for a British National Frame with a honeycomb </image:caption>
 
+ </image:image>  
 <image:image>
 	       <image:loc>https://www.honeycomb999.com/images/1_frame_packaging_inner.png</image:loc>
        <image:caption>Packaging for a British National Frame with comb honey</image:caption>
        <image:title>Packaging for a British National Frame with a honeycomb </image:caption>
+ </image:image>  
 
    </url>
  <url>
