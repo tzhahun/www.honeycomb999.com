@@ -56,13 +56,12 @@
 <image:image>
 	       <image:loc>https://www.honeycomb999.com/images/1_frame_packaging_outer.png</image:loc>
        <image:caption>Packaging for a British National Frame with comb honey</image:caption>
-       <image:title>Packaging for a British National Frame with a honeycomb </image:caption>
-
- </image:image>  
+       <image:title>Packaging for a British National Frame with a honeycomb</image:title>
+ </image:image> 
 <image:image>
 	       <image:loc>https://www.honeycomb999.com/images/1_frame_packaging_inner.png</image:loc>
        <image:caption>Packaging for a British National Frame with comb honey</image:caption>
-       <image:title>Packaging for a British National Frame with a honeycomb </image:caption>
+       <image:title>Packaging for a British National Frame with a honeycomb</image:title>
  </image:image>  
 
    </url>
