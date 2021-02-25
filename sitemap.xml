@@ -60,7 +60,7 @@
    </url>
  <url>
       <loc>http://www.honeycomb999.com/tutorials.html</loc>      
-       <priority>0.8</priority> 	      
+       <priority>0.2</priority> 	      
   </url>
   <url>
       <loc>http://www.honeycomb999.com/national-section-frame-rack.html</loc>      
@@ -74,4 +74,9 @@
       <loc>http://www.honeycomb999.com/packaging-single-national-honey-frame.html</loc>      
        <priority>0.8</priority> 	      
   </url>
+<url>
+      <loc>http://www.honeycomb999.com/comb-honey-sections-making-kit.html</loc>      
+       <priority>0.8</priority> 	      
+  </url>	
+	
 </urlset>
