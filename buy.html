@@ -12,7 +12,10 @@
 
     <title>Honeycomb 999 Buy Sections</title>
 	
-	 
+	 <script 
+  src="https://www.paypal.com/sdk/js?client-id=BAAUcrtN6lEAMc7EQM8ADSjiHVQX4Pkl7thSNifBaigBg4g1WTNZIu_d-8FhekfCeU4OMYBKEDaehvBHCI&components=hosted-buttons&disable-funding=venmo&currency=GBP">
+</script>
+	  
   </head>
 
   <body>
@@ -58,8 +61,12 @@
   <span itemprop="description"> 
     For use in a British National frame. </span> 
 	    <br>
-    In stock
-
+  <div id="paypal-container-S9QJADSBDPKV4"></div>
+<script>
+  paypal.HostedButtons({
+    hostedButtonId: "S9QJADSBDPKV4",
+  }).render("#paypal-container-S9QJADSBDPKV4")
+</script>
 
 
 
